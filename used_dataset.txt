@@ -1,3 +1,8 @@
 https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies?select=TMDB_movie_dataset_v11.csv
 
 https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis
+
+https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset

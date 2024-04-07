@@ -1,6 +1,6 @@
 from tkinter import *
 from ctypes import windll
-import dataset
+import dataset, test
 windll.shcore.SetProcessDpiAwareness(1)
 # Removes the blurry text #
 
@@ -28,4 +28,5 @@ entry.bind("<FocusIn>", temp_text)
 # Temporary text disapperars when clicked #
 window.mainloop()
 
-dataset.open_csv()
+#dataset.open_csv()
+test.open_csv()
