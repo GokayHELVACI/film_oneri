@@ -8,8 +8,10 @@ windll.shcore.SetProcessDpiAwareness(1)
 def submit():
     input = entry.get()
     print(input)
+    
 def temp_text(e):
     entry.delete(0,"end")
+
 
 window = Tk()
 window.geometry("700x250")
