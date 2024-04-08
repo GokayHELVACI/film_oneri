@@ -1,5 +1,11 @@
 https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies?select=TMDB_movie_dataset_v11.csv
 
+dataset.py da kullanılan test.csv dosyasının ana hali üstteki (TMDB_movie_dataset_v11)
+
+Film Türü içermiyor
+
+------------------------------------------------
+
 https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis
 
 https://www.kaggle.com/datasets/shivamb/netflix-shows
@@ -10,8 +16,12 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 # # https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
-https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
+https://www.omdbapi.com/
 --------------------------------------------------------------------------------------------------------------------------------------
 
+
 https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis?rvi=1   IMDB Movies Analysis  movies_initial.csv
+
+
+test.py da kullanılan veri seti isim tür ve oyuncular içeriyor. (movies_initial.csv)
