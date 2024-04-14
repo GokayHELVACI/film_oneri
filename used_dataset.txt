@@ -1,3 +1,9 @@
+Yapilan Projeler
+1) https://www.kaggle.com/code/ibtesama/getting-started-with-a-movie-recommendation-system
+2) https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system
+
+
+1 nolu proje detaylica incelenmeli
 https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies?select=TMDB_movie_dataset_v11.csv
 
 dataset.py da kullanılan test.csv dosyasının ana hali üstteki (TMDB_movie_dataset_v11)
@@ -25,3 +31,12 @@ https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis?rvi=1   IMDB Mov
 
 
 test.py da kullanılan veri seti isim tür ve oyuncular içeriyor. (movies_initial.csv)
+
+
+
+'''
+https://www.kaggle.com/code/shivamb/netflix-shows-and-movies-exploratory-analysis (Kullanilmadi incelenecek)
+https://www.kaggle.com/datasets/nareshbhat/indian-moviesimdb
+https://www.kaggle.com/datasets/chaitanyahivlekar/large-movie-dataset
+
+'''

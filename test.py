@@ -1,6 +1,7 @@
 import csv
 import pandas as pd
 from sklearn.model_selection import  train_test_split
+from sklearn.linear_model import LinearRegression
 
 # Veri setinde 1011958 satir 24 sutundan olusmakta #
 # dataset = "TMDB_movie_dataset_v11.csv" #
@@ -22,9 +23,17 @@ df = pd.read_csv("movies_initial.csv")
 #print(df[['title','genre','cast']])
 
 X= df['genre']
-print('X:\n',X)
-y = df['cast']
-print('y:\n',y)
-X_train,X_test,y_train,y_test = train_test_split(X,y,test_size=0.2,random_state=100)
-print('Trained X:\n',X_train)
+#print('X:\n',X)
+Y = df['cast']  
 
+print(X[0])
+#print('X:\n',X)
+print(type(X[0]))
+#print('y:\n',y)
+X_train,X_test,Y_train,Y_test = train_test_split(X,Y,test_size=0.2,random_state=100)
+
+#print('Trained X:\n',X_train)
+
+lr = LinearRegression()
+lr.fit(X_train,Y_train)
+LinearRegression()
