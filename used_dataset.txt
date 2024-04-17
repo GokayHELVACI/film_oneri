@@ -2,6 +2,7 @@ Yapilan Projeler
 1) https://www.kaggle.com/code/ibtesama/getting-started-with-a-movie-recommendation-system
 2) https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system
 
+Bu apiden veri çekilebilir incele   https://developer.themoviedb.org/reference/intro/getting-started
 
 1 nolu proje detaylica incelenmeli
 https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies?select=TMDB_movie_dataset_v11.csv
