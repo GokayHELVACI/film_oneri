@@ -1,6 +1,6 @@
 import requests
 user_genre= "Romance"
-api_key = '9ae4aa8fd098519b71e941c397067bc3'
+api_key = '--'
 movie_id = 27  
 
 # Make the request
