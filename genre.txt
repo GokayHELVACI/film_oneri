@@ -1,0 +1,30 @@
+genre_url = f'https://api.themoviedb.org/3/genre/movie/list?api_key={api_key}'
+Genre ID: 28, Genre Name: Action
+Genre ID: 12, Genre Name: Adventure
+Genre ID: 16, Genre Name: Animation
+Genre ID: 35, Genre Name: Comedy
+Genre ID: 80, Genre Name: Crime
+Genre ID: 99, Genre Name: Documentary
+Genre ID: 18, Genre Name: Drama
+Genre ID: 10751, Genre Name: Family
+Genre ID: 14, Genre Name: Fantasy
+Genre ID: 36, Genre Name: History
+Genre ID: 27, Genre Name: Horror
+Genre ID: 10402, Genre Name: Music
+Genre ID: 9648, Genre Name: Mystery
+Genre ID: 10749, Genre Name: Romance
+Genre ID: 878, Genre Name: Science Fiction
+Genre ID: 10770, Genre Name: TV Movie
+Genre ID: 53, Genre Name: Thriller
+Genre ID: 10752, Genre Name: War
+Genre ID: 37, Genre Name: Western
+
+
+'id': 10194, 'name': 'Toy Story Collection', 'poster_path': '/7G9915LfUQ2lVfwMEEhDsn3kT4B.jpg', 
+'backdrop_path': '/9FBwqcd9IRruEDUrTdcaafOMKUq.jpg'}, 'budget': 30000000, 'genres': [{'id': 16, 'name': 'Animation'}
+                                                                                     
+
+
+{'adult': False, 'backdrop_path': '/lxD5ak7BOoinRNehOCA85CQ8ubr.jpg', 'belongs_to_collection': 
+{'id': 10194, 'name': 'Toy Story Collection', 'poster_path': '/7G9915LfUQ2lVfwMEEhDsn3kT4B.jpg', 'backdrop_path': '/9FBwqcd9IRruEDUrTdcaafOMKUq.jpg'}, 
+'budget': 30000000, 'genres': [{'id': 16, 'name': 'Animation'}, {'id': 12, 'name': 'Adventure'}, {'id': 10751, 'name': 'Family'}, {'id': 35, 'name': 'Comedy'}], 'homepage': 'http://toystory.disney.com/toy-story', 'id': 862, 'imdb_id': 'tt0114709', 'origin_country': ['US'], 'original_language': 'en', 'original_title': 'Toy Story', 'overview': "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.", 'popularity': 264.757, 'poster_path': '/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg', 'production_companies': [{'id': 3, 'logo_path': '/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png', 'name': 'Pixar', 'origin_country': 'US'}], 'production_countries': [{'iso_3166_1': 'US', 'name': 'United States of America'}], 'release_date': '1995-10-30', 'revenue': 394436586, 'runtime': 81, 'spoken_languages': [{'english_name': 'English', 'iso_639_1': 'en', 'name': 'English'}], 'status': 'Released', 'tagline': 'Hang on for the comedy that goes to infinity and beyond!', 'title': 'Toy Story', 'video': False, 'vote_average': 7.972, 'vote_count': 17809, 'videos': {'results': [{'iso_639_1': 'en', 'iso_3166_1': 'US', 'name': 'TOY STORY Theatrical Trailer [1995] 4K', 'key': 'ciPU28QhT1Y', 'site': 'YouTube', 'size': 2160, 'type': 'Teaser', 'official': False, 'published_at': '2023-02-04T20:00:42.000Z', 'id': '63deba356ee3d7007a7dab00'}, {'iso_639_1': 'en', 'iso_3166_1': 'US', 'name': '"I\'m Woody" Clip', 'key': 'eceq_lHyxBc', 'site': 'YouTube', 'size': 1080, 'type': 'Clip', 'official': True, 'published_at': '2022-11-22T18:00:16.000Z', 'id': '637d7170a5743d00c797e901'}, {'iso_639_1': 'en', 'iso_3166_1': 'US', 'name': 'Toy Story (1995) Theatrical Trailer [4K] [FTD-0679]', 'key': 'b_Wwb4H0oxQ', 'site': 'YouTube', 'size': 2160, 'type': 'Trailer', 'official': False, 'published_at': '2022-02-08T06:00:29.000Z', 'id': '65414a856ca9a000ca15d076'}, {'iso_639_1': 'en', 'iso_3166_1': 'US', 'name': 'Toy Story (1995) Theatrical Teaser Trailer [4K] [FTD-0678]', 'key': 'LoBFN_V66P0', 'site': 'YouTube', 'size': 2160, 'type': 'Teaser', 'official': False, 'published_at': '2022-02-07T06:00:05.000Z', 'id': '65414adc63e6fb00c711e319'}, {'iso_639_1': 'en', 'iso_3166_1': 'US', 'name': 'The Making of Toy Story (1995)', 'key': 'LFzkIlVA0WY', 'site': 'YouTube', 'size': 360, 'type': 'Behind the Scenes', 'official': False, 'published_at': '2021-04-02T16:00:10.000Z', 'id': '64613fdfa672540122122fc8'}, {'iso_639_1': 'en', 'iso_3166_1': 'US', 'name': 'Original Trailer', 'key': 'CxwTLktovTU', 'site': 'YouTube', 'size': 1080, 'type': 'Trailer', 'official': True, 'published_at': '2019-11-08T18:00:03.000Z', 'id': '61c2834a3fe797006112683e'}, {'iso_639_1': 'en', 'iso_3166_1': 'US', 'name': 'Disney Throwback Trailer', 'key': 'tN1A2mVnrOM', 'site': 'YouTube', 'size': 1080, 'type': 'Trailer', 'official': True, 'published_at': '2015-09-23T16:05:24.000Z', 'id': '5d0b8077c3a36862fa1ea2fb'}, {'iso_639_1': 'en', 'iso_3166_1': 'US', 'name': "Sid's House", 'key': 'u9y2tXnjP_E', 'published_at': '2011-10-15T17:21:25.000Z', 'site': 'YouTube', 'size': 480, 'type': 'Clip', 'official': False, 'id': '5aa5a9049251412787028b5c'}]},
