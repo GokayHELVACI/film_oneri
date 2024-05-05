@@ -1,7 +1,8 @@
 import requests
-user_genre= "Romance"
-api_key = '--'
-movie_id = 27  
+user_genre= "Drama"
+user_input= user_genre #Change this into an actual input
+api_key = '**'
+movie_id = 260  
 
 # Make the request
 url = f'https://api.themoviedb.org/3/movie/{movie_id}?api_key={api_key}'
@@ -24,12 +25,15 @@ if response.status_code == 200:
         genre_name = genre['name']
         print("Genre Name:", genre_name)
 
-    if genre_name[2]  != user_genre:
-        print('esit degil')
-        movie_id+=1
+    
+    found = False
+    for genre in genres:
+        if user_input.lower() == genre['name'].lower():
+            found = True
+            break
+    if found:
+        print("Başarılı")
     else:
-        print("esiT")
-        print(f'Title: {title}\nOverview: {overview}\nRelease Date: {release_date}\nGenre: {genre}')
+        print("Genre not found")
 else:
     print('Failed to fetch movie details.')
-
